@@ -1,0 +1,1 @@
+Olá esse projeto me ensinou a criar uma Landing Page e a usar o Git.
